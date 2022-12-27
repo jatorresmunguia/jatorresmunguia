@@ -26,7 +26,7 @@ Hi! I am a research assistant at the [Ibero-Amerika Institut für Wirtschaftsfor
 
 I am passionate about analyzing data on poverty, crime, violence, conflict, and gender inequalities. I love building non-parametric models applied to high-dimensional data sets on these topics. 
 
-Outside of work, I love watching cinearte and independent movies (see my top 5), reading (see my top 5), listening music, walking, traveling, and spending time with the wonderful human beings I have met in my life. 
+Outside of work, I love watching cinearte and independent movies, reading, listening music, walking, traveling, and spending time with the wonderful human beings I have met in my life. 
 
 If you’d like to read more about what I do, scroll down for more information.
 
