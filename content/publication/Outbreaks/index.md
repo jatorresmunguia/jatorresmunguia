@@ -10,7 +10,7 @@ authors:
 - Inmaculada Martínez-Zarzoso
 - Konstantin M. Wacker
 date: "2022-11-25T00:00:00Z"
-doi: "https://doi.org/10.1177/08862605211072179"
+doi: "https://doi.org/10.1038/s41597-022-01797-2"
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-022-01797-2/MediaObjects/41597_2022_1797_Fig3_HTML.png?as=webp)'
