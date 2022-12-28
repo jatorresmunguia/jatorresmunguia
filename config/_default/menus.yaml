@@ -18,7 +18,7 @@ main:
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/CVitaeR.pdf` and uncomment the lines below.
-#  - name: CVitaeR
-#    url: uploads/CVitaeR.pdf
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
 #    weight: 70
