@@ -46,5 +46,5 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-doi: https://doi.org/10.1371/journal.pone.0259187
+Full article: https://doi.org/10.1371/journal.pone.0259187
 ---
