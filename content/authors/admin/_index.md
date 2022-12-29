@@ -26,8 +26,6 @@ Hi! I am a research assistant at the [Ibero-Amerika Institut für Wirtschaftsfor
 
 I am passionate about using nonparametric regression models to identify risk factors for key issues in development economics such as poverty, crime, violence, conflict, and inequality and to explore and describe the relationships between these phenomena.
 
-Outside of work, I love watching art cinema and independent movies, reading, listening music, walking, traveling, and spending time with the wonderful human beings I have met in my life. 
-
 If you’d like to read more about what I do, scroll down for more information.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
