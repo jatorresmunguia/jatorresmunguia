@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>http://example.org/publication/</link>
+      <atom:link href="http://example.org/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_hue2a96dcb4e1fa36f6a5cf06b0d6015b0_6222_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://example.org/publication/</link>
+    </image>
+    
+    <item>
+      <title>A global dataset of pandemic- and epidemic-prone disease outbreaks</title>
+      <link>http://example.org/publication/outbreaks/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/outbreaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinants of Emotional Intimate Partner Violence against Women and Girls with Children in Mexican Households:  An Ecological Framework</title>
+      <link>http://example.org/publication/ipv/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/ipv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining gender inequalities in factors associated with income poverty in Mexican rural households</title>
+      <link>http://example.org/publication/poverty/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/poverty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
