@@ -1,3 +1,6 @@
 Hacer cammbios desde aquí:
 
 Carpeta no pública: \jatorresmunguia\content\authors\admins\_index.md 25122022
+
+Cambiar icon: C:\Users\jator\OneDrive\Dokumente\GitHub\jatorresmunguia\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\v5\assets\media
+
