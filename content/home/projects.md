@@ -29,7 +29,4 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
-  
-  <a class="twitter-timeline" href="https://twitter.com/jtorresmunguia?ref_src=twsrc%5Etfw">Tweets by jtorresmunguia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ---
