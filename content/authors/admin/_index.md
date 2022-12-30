@@ -28,7 +28,5 @@ I am passionate about using nonparametric regression models to identify risk fac
 
 If you’d like to read more about what I do, scroll down for more information.
 
-{{< a class="twitter-timeline" data-height="400" data-dnt="true" data-theme="dark" href="https://twitter.com/jtorresmunguia?ref_src=twsrc%5Etfw">Tweets by jtorresmunguia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script >}}
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
