@@ -28,4 +28,4 @@ I am passionate about using nonparametric regression models to identify risk fac
 
 If you’d like to read more about what I do, scroll down for more information.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
