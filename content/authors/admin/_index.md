@@ -30,4 +30,4 @@ If you’d like to read more about what I do, scroll down for more information.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/twitter/twitter.html" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "twitter/twitter.html" >}}curriculum vitae{{< /staticref >}}.
