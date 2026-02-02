@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello! Thanks for passing by my site.
 
-<!--
-**jatorresmunguia/jatorresmunguia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Juan Armando. I am a Statistician specialized in the management, analysis, and visualization of data related to humanitarian emergencies and most vulnerable populations.
 
-Here are some ideas to get you started:
+My work integrates statistical methods, machine learning algorithms, and data science techniques to better understand how individuals, families, and communities experience, adapt to, and cope with phenomena such as armed conflict, violence, climate change, poverty, and displacement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As an R-enthusiast, I love coding to optimize and streamline my work. Check out my [Blog](https://juan-torresmunguia.netlify.app/blog/), where I share insights on using R for the study of humanitarian and development data.
+
+### To learn more about me and my work, please click on the following links:
+
+- [CV](https://juan-torresmunguia.netlify.app/cv/).
+- [Publications](https://juan-torresmunguia.netlify.app/publications/).
+- [Data visualization gallery](https://juan-torresmunguia.netlify.app/portfolio/).
+
+> [!NOTE]
+I am open to collaborations on publications, research, data analysis, data visualization, and related development and humanitarian data projects, and I am always happy to talk about this and share ideas.
