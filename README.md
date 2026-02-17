@@ -8,7 +8,6 @@ As an R-enthusiast, I love coding to optimize and streamline my work. Check out 
 
 ### To learn more about me and my work, please click on the following links:
 
-- [CV](https://juan-torresmunguia.netlify.app/cv/).
 - [Publications](https://juan-torresmunguia.netlify.app/publications/).
 - [Data visualization gallery](https://juan-torresmunguia.netlify.app/portfolio/).
 
